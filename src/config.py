@@ -28,7 +28,7 @@ INACTIVITY_CFG = {
     "EMA_ALPHA" : 0.2,
     "ENTER_THRESH_NORM_SPEED" : 0.02,
     "EXIT_THRESH_NORM_SPEED" : 0.05,
-    "MIN_DURATION_S" : 60, # (7200) 2 Hours inactive of an object before flag as inactive
+    "MIN_DURATION_S" : 7200, # (7200) 2 Hours inactive of an object before flag as inactive
     "MAX_UNSEEN_GAP_S" : 1.5
 }
 
