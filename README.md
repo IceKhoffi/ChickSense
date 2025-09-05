@@ -126,6 +126,17 @@ Jika belum memiliki bot Telegram, berikut merupakan panduannya:
   uvicorn main:app
   ```
 
+---
+## Tampilan UI (User Interface)
+
+![UI 1](https://github.com/user-attachments/assets/64366e3f-581d-4cb5-babb-a0a095d2a26f)
+
+---
+## Tampilan Notifikasi Telegram
+![tampilan_header](https://github.com/user-attachments/assets/6918dfe9-148a-44e0-8cff-e90610408f19)
+
+![tampilan_isi](https://github.com/user-attachments/assets/368e638d-d6ca-4726-9c50-2fdb1984f0ab)
+
 
 
    
