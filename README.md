@@ -5,6 +5,11 @@
 **ChickSense** Proyek ini dikembangkan dalam rangka **Final Datathon 2025**, dimana berfokus pada mengubah ide dan model awal dari babak penyisihan menjadi sebuah produk fungsional yang siap digunakan dan didemonstrasikan. 
 
 ---
+## Highlights
+- 2nd Place Datathon 2025
+![2nd Place Datathon 2025](https://github.com/user-attachments/assets/4d8dfa8a-32f0-4496-8f7a-cd40311bc185)
+
+---
 
 ## Deskripsi Proyek
 **ChickSense** merupakan sistem yang dapat memantau konfisi ayam secara langsung dengan menganalisis **perilaku, suara, dan pola aktivitas** mereka. Tujuan proyek ini mendukung peternak dalam **mendeteksi dini tanda-tanda penyakit atau stress**, sehingga kesejahteraan ayam dapat lebih terjamin.
