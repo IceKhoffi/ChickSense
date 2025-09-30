@@ -1,6 +1,7 @@
 # ChickSense: Sistem Pemantauan Kesehatan & Kesejahteraan Ayam Secara Real-Time
 
 **Proof of Concept:** [chicken-health-behavior-multimodal](https://github.com/IceKhoffi/chicken-health-behavior-multimodal)
+
 **Prototype:** [prototype-on-huggingface](https://huggingface.co/spaces/IceKhoffi/ChickSense)
 
 **ChickSense** Proyek ini dikembangkan dalam rangka **Final Datathon 2025**, dimana berfokus pada mengubah ide dan model awal dari babak penyisihan menjadi sebuah produk fungsional yang siap digunakan dan didemonstrasikan. 
